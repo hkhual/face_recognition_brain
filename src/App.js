@@ -22,7 +22,7 @@ const particlesOptions = {
         }
     }
   }
-}
+};
 
 const initialState =  {
   input: '',
@@ -37,7 +37,7 @@ const initialState =  {
     entries: 0,
     joined: ''
     }
-}
+};
 
 class App extends React.Component{
   constructor(){
